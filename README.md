@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="#">ABI</a> 👋</h1>
+</div>
 
-<!--
-**abi76416949/abi76416949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="600" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3oybmhrYW42d25qeWFvMXJxdHpwM2ozM3luNnZsdzkwazltYjY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- Curzando la carrera de inginieria en sistemas
+- ❤ Dibujar
+- Tengo mi propio blog.
+- 
+<br>
